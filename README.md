@@ -1,5 +1,5 @@
 [![MasterHead](https://i0.wp.com/jrgonzalez.es/wp-content/uploads/2021/05/javascript-tips.jpg?ssl=1)](https://github.com/gapman20?tab=repositories)
-<h1 align="center">Hi , I'm Jose Gabriel Alvarez Perez</h1>
+<h1 align="center">Hi , I'm Gabriel Alvarez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114769a697e71943e61bb2b860567681fc8290328e&rid=giphy.gif&ct=g">
 
