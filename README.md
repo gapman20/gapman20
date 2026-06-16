@@ -1,4 +1,3 @@
-[![MasterHead](https://portafoliogabrielalvarez.netlify.app/Basalto_dev.png)](https://github.com/gapman20?tab=repositories)
 
 <p align="center">
   <img src="https://portafoliogabrielalvarez.netlify.app/Basalto_dev.png" width="300" alt="Basalto Dev Logo" />
