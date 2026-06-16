@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="https://portafoliogabrielalvarez.netlify.app/Basalto_dev.png" width="300" alt="Basalto Dev Logo" />
+  <a href="https://github.com/gapman20?tab=repositories">
+    <img src="https://portafoliogabrielalvarez.netlify.app/Basalto_dev.png" width="300" alt="Basalto Dev Logo" />
+  </a>
 </p>
 
 <h1 align="center">Hi, I'm Gabriel Alvarez 👋</h1>
