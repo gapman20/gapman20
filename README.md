@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/jrgonzalez.es/wp-content/uploads/2021/05/javascript-tips.jpg?ssl=1)](https://github.com/gapman20?tab=repositories)
+[![MasterHead](https://portafoliogabrielalvarez.netlify.app/Basalto_dev.png)](https://github.com/gapman20?tab=repositories)
 <h1 align="center">Hi , I'm Gabriel Alvarez</h1>
 <p align="center">
   <em>Ingeniero Electrónico | Full Stack Developer | Basalto Dev</em>
