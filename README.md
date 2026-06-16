@@ -5,6 +5,14 @@
 
 - 📫 How to reach me **gabrielalvarezp20@outlook.com**
 
+- ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marckes12&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="Estadísticas de Marco" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckes12&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
 - ⚡ Fun fact **I know a lot of fun facts**
 
 <h3 align="left">Connect with me:</h3>
